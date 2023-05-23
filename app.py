@@ -5,7 +5,7 @@ from langdetect import detect
 
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'YOUR API_KEY'
 
 def detect_language(text):
     
