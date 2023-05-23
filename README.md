@@ -34,11 +34,21 @@ API_KEY=<YOUR_API_KEY>
 4.Run the application:
 python app.py
   
-#Application Usage
-#steps:
+# Application Usage
+
+
+# steps:
+
+
 1.select your preferred language and click on submit button:
+
+
 ![image](https://github.com/ranjithkiran123/Veda-chatbot/assets/92369725/48f2b07b-94c2-4936-9378-767e8e015724)
+
+
 2. ask your question related to any Government services and click send button:
+
+
 ![image](https://github.com/ranjithkiran123/Veda-chatbot/assets/92369725/109d264a-4597-464a-9faf-33ec5aa5fdb5)
 
 
